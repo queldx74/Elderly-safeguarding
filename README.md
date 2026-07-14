@@ -14,7 +14,7 @@ A project dedicated to improving the safety, well-being, and protection of elder
 - [Data & Privacy](#data--privacy)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
-- [License](#license)
+- [Wireframe](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -125,7 +125,7 @@ Contributions are welcome.
 
 Please open an issue first for major changes.
 
-## wireframe
+## Wireframe
 # Elderly Safeguarding
 
 A project dedicated to improving the safety, well-being, and protection of elderly individuals through practical tools, resources, and workflows.
