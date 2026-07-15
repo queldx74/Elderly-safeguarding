@@ -254,6 +254,8 @@ Please open an issue first for major changes.
 
 ## wireframe
 
+<img width="640" height="2370" alt="image" src="https://github.com/user-attachments/assets/7807761b-1fec-48bd-a409-a45133f0a7a0" />
+
 
 
 file:///C:/Users/malco/Downloads/wireframe-sg.jpg
