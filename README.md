@@ -256,14 +256,13 @@ Please open an issue first for major changes.
 
 
 
-C:\Users\malco\OneDrive\Pictures\Screenshots\Screenshot 2026-07-14 142441.png
-<img width="340" height="397" alt="Screenshot 2026-07-14 142441" src="https://github.com/user-attachments/assets/80448579-189a-4cbb-a7fe-cc89fa45134b" />
+file:///C:/Users/malco/Downloads/wireframe-sg.jpg
 
 
 
 
 
-If you have a `LICENSE` file, reference it here.
+
 
 ## AI generated image
 
