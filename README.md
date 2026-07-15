@@ -258,7 +258,7 @@ Please open an issue first for major changes.
 
 
 
-file:///C:/Users/malco/Downloads/wireframe-sg.jpg
+
 
 
 
