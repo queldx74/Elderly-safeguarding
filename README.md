@@ -265,10 +265,10 @@ C:\Users\malco\OneDrive\Pictures\Screenshots\Screenshot 2026-07-14 142441.png
 
 If you have a `LICENSE` file, reference it here.
 
-## Contact
+## AI generated image
 
-Project maintainer: **@queldx74**  
-Repository: https://github.com/queldx74/Elderly-safeguarding
+![Elderly Safeguarding](https://github.com/user-attachments/assets/74c6c568-8f32-43c4-a08b-e0a05121fed3)
+
 
 
 ## Contact
