@@ -6,13 +6,13 @@
     <meta
       name="description"
       content="Elderly-safeguarding is a website dedicated to protecting elderly people from harm and exploitation"
-    />
+    >
 
 
     <meta
       name="keywords"
       content="safeguarding, care, safety, harm, prevention, response"           
-    />
+    >
 
     <title>Elderly Safeguarding Portal</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -27,9 +27,20 @@
     <div class="container">
         <a class="navbar-brand fw-bold" href="#">ELDERLY SAFEGUARDING</a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
+        <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
             <span class="navbar-toggler-icon"></span>
-        </button>
+        </button> -->
+
+        <button
+    class="navbar-toggler"
+    type="button"
+    data-bs-toggle="collapse"
+    data-bs-target="#navMenu"
+    aria-controls="navMenu"
+    aria-expanded="false"
+    aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+</button>
 
         <div class="collapse navbar-collapse justify-content-end" id="navMenu">
             <ul class="navbar-nav align-items-center">
@@ -78,10 +89,16 @@
         </div>
 
         <!-- RIGHT SIDE: IMAGE -->
-        <div class="col-md-6 text-center">
-            <img src="assets/images/elderly-safeguarding.JPG"
+        <!-- <div class="col-md-6 text-center">
+            <img src="assets/images/elderly-safeguarding2B.webp"
                  alt="Elderly safeguarding illustration"
-                 class="img-fluid rounded shadow">
+                 class="img-fluid rounded shadow"> -->
+            <div class="col-md-6 text-center">
+    <img
+        src="assets/images/elderly-safeguarding2B.webp"
+        alt="Elderly safeguarding illustration"
+        class="img-fluid rounded shadow safeguarding-image">
+</div>
         </div>
 
     </div>
@@ -169,7 +186,7 @@
             <div class="icon-box">
                 <h4>Report a Concern</h4>
 
-                <form>
+                <!-- <form>
                     <div class="mb-3">
                         <label class="form-label">Your Name</label>
                         <input type="text" class="form-control">
@@ -187,7 +204,29 @@
 
                     <button class="btn btn-primary">Submit Report</button>
                     <a href="#" class="btn btn-outline-dark ms-2">Report Online Instead</a>
-                </form>
+                </form> -->
+                <form>
+    <div class="mb-3">
+        <label for="name" class="form-label">Your Name</label>
+        <input type="text" id="name" name="name" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="phone" class="form-label">Contact Number</label>
+        <input type="tel" id="phone" name="phone" class="form-control" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="concern" class="form-label">Nature of Concern</label>
+        <textarea id="concern" name="concern" class="form-control" rows="3" required></textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit Report</button>
+
+    <a href="#" class="btn btn-outline-dark ms-2">
+        Report Online Instead
+    </a>
+</form>
             </div>
         </div>
 
