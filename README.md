@@ -148,7 +148,7 @@ Use of Adobe Express Colour contrast checker. This online tool checks the foregr
 
 <img width="949" height="495" alt="Screenshot 2026-07-16 055508" src="https://github.com/user-attachments/assets/c045a04a-6939-44c0-9b58-8243d13bbfd4" />
 
-## Brief description of user value of the compoments
+## Brief description of user value of the components
 
 <img width="932" height="289" alt="Screenshot 2026-07-16 054451" src="https://github.com/user-attachments/assets/99c12163-68dd-4c7c-b672-53e4b7f7c03b" />
 
@@ -171,6 +171,13 @@ This section contains the tools for immediate help for the visitor. The red butt
 
 <img width="897" height="480" alt="Screenshot 2026-07-16 064945" src="https://github.com/user-attachments/assets/60f84fe3-bcc0-4f71-b52a-9c17d07aac07" />
 This part of the website allows the visitor to contact key organisastions and resources which are vital in protecting elderly adults. Each click on a button leads the visitor to exit the current page and goes to a new tab. In this way the user can always go back to their previous tab containing this website. This prevents to force the visitor to use the backspace button on the browser. There are links to the most popular social media links. At the bottom is a footnote and disclaimer. In the future the links just about the copyright could be made active. 
+
+For the whole of the website I used HTML, CSS, VS Code, Github. Furthermore, I used Bootstrap's responsive grid system (container, row, col-*) to organise the page layout and cards. In addition,  I used Bootstrap Flexbox utilities such as d-flex, justify-content-between, justify-content-end, and align-items-center to align navigation items and buttons. On top of that I used an assorment of AI tools to check my website for errors such as, mentioned in section Testing. 
+
+## The leverage of AI tools in enhancing the software development process
+For the completion of the wireframe structure of the website I used the website: https://.uxpilot.ai, because this website has a built in AI tool that users can use to build a wireframe structure for their websites. 
+In the use of most of my CSS I used Bootstraps's responsive grid system and their Flexbox system (this was in addition to the use of vanilla CSS). 
+
 
 
 ## Contact
