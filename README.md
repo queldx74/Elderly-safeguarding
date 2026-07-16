@@ -143,6 +143,34 @@ Tested on Page Speed Insight Mobile
 
 
 
+Use of Adobe Express Colour contrast checker. This online tool checks the foreground and background color contrast ratios against WCAG 2.1 accessibility guidelines. Test combinations for AA and AAA standards to help ensure readable, accessible design.​
+
+
+<img width="949" height="495" alt="Screenshot 2026-07-16 055508" src="https://github.com/user-attachments/assets/c045a04a-6939-44c0-9b58-8243d13bbfd4" />
+
+## Brief description of user value of the compoments
+
+<img width="932" height="289" alt="Screenshot 2026-07-16 054451" src="https://github.com/user-attachments/assets/99c12163-68dd-4c7c-b672-53e4b7f7c03b" />
+
+The navigation, quick exit, get help now, read guide were made and styled in bootstrap. The HTML code was done in Visual Studio Code and later pushed to Github. 
+* quick exit button: This layout allows the visitor whos domestic situation is not safe to quickly exit this website and move to a neutral website.  
+* The bright red colour of the quick exit button allows a for a user to easier spot it on the website.
+* The resource button allows the user to go instantly to the 4 external resources.
+* the contact button gives the user the option to go directly to the contact form.
+
+
+  <img width="863" height="462" alt="Screenshot 2026-07-16 054516" src="https://github.com/user-attachments/assets/75359db3-83f4-4058-bbad-19363b357835" />
+
+This section supplies the main content in regard the different kinds of abuse and the legal base to act on it. The whole section was done in HTML, Bootstrap and CSS and deployed through Github.
+
+
+<img width="884" height="394" alt="Screenshot 2026-07-16 054538" src="https://github.com/user-attachments/assets/d36a8bef-ba7c-4bfe-b1ec-5494f3c474c5" />
+
+This section contains the tools for immediate help for the visitor. The red button would allow in the future to click the button and call emergency services. The button is coloured in red, so it stands out in the sea of white back ground and black coloured font. Above the button are the emergency- and non-emergency numbers listed. On the right if a user or a victim has a concern about a potential safeguarding issue, they can (in the future) contact the appropriate safeguarding officer who can make an judgement of the current situation based on the contact form. Sending and retrieving information requires Javascript and that is an option that can included later in the website. The contact form requires a user to fill something in or else the input will be rejected. The tools used for building this section were Github, HTML, CSS, Bootstrap and VS Code.
+
+
+<img width="897" height="480" alt="Screenshot 2026-07-16 064945" src="https://github.com/user-attachments/assets/60f84fe3-bcc0-4f71-b52a-9c17d07aac07" />
+This part of the website allows the visitor to contact key organisastions and resources which are vital in protecting elderly adults. Each click on a button leads the visitor to exit the current page and goes to a new tab. In this way the user can always go back to their previous tab containing this website. This prevents to force the visitor to use the backspace button on the browser. There are links to the most popular social media links. At the bottom is a footnote and disclaimer. In the future the links just about the copyright could be made active. 
 
 
 ## Contact
