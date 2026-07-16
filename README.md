@@ -191,8 +191,20 @@ This part of the website allows the visitor to contact key organisastions and re
 For the whole of the website I used HTML, CSS, VS Code, Github. Furthermore, I used Bootstrap's responsive grid system (container, row, col-*) to organise the page layout and cards. In addition,  I used Bootstrap Flexbox utilities such as d-flex, justify-content-between, justify-content-end, and align-items-center to align navigation items and buttons. On top of that I used an assorment of AI tools to check my website for errors such as, mentioned in section Testing. 
 
 ## The leverage of AI tools in enhancing the software development process
-For the completion of the wireframe structure of the website I used the website: https://.uxpilot.ai, because this website has a built in AI tool that users can use to build a wireframe structure for their websites. 
-In the use of most of my CSS I used Bootstraps's responsive grid system and their Flexbox system (this was in addition to the use of vanilla CSS). 
+Structure: For the completion of the wireframe structure of the website I used the website: https://.uxpilot.ai, because this website has a built in AI tool that users can use to build a wireframe structure for their website.
+
+User accessibility: Used HTML tool W3C (https://validator.w3.org/) for checking the structure of the website. The tool found 5 structural mistakes mostly to do with the sequence of H1 to H6. (From H1 I skipped H2 and this is considered confusing for the user and not best practice). I used MS Copilot to suggest changes so that my H-blocks were conforming to best practice. 
+
+CSS checker:  https://jigsaw.w3.org/css-validator/ 
+
+Performance: Tested the website on lighthouse (https://lighthouse-metrics.com/) and Page Speed Insights (https://pagespeed.web.dev/) They found that my website was slow loading. This was caused, because the image I used in the hero section, was too large in pixels and was saved in an outdated image file. My next step was to shrink the picture in paint (max width 500 pixels) and use webp as extension for allowing the website to load the image faster. 
+
+Search Engine Optimisation: Used Lighthouse to create meta tags. 
+
+Accessibility: Tested on Adobe Express Color Contrast Checker. This AI tool compares the contrast of the colours to check if it is easy to read fo the visitor. 
+
+Responsivity: Used this AI tool, amiresponsive, for testing the website responsiveness to different sizes of screens (https://fireship.dev/amiresponsive)
+
 
 
 
