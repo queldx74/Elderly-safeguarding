@@ -48,6 +48,11 @@ README.md
 ![Website Colour Palette](assets/images/color-thief-palette-queldx74.github.io.png)
 
 ## Fonts
+This website uses the Lato font, because it is a clean, readable, and commonly used font for accessibility.
+
+![Fonts section screenshot](assets/images/Screenshot%202026-07-16%20153456.png)
+
+
 
 ## Running the project
 Clone the repository:
@@ -75,6 +80,7 @@ website adapts to:
 Mobile
 Tablet
 Desktop
+
 
 ![Responsive design screenshot](assets/images/Screenshot%202026-07-16%20151043.png)
 
