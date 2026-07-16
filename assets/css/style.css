@@ -23,11 +23,21 @@
   transition:
     transform 0.3s ease,
     box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
 }
 
 .icon-box:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.icon-box h3 {
+    min-height: 90px;
+}
+
+.icon-box .btn {
+    margin-top: auto;
 }
 .footer {
   background: #222;
