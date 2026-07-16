@@ -42,6 +42,13 @@ README.md
 - GitHub
 - GitHub Pages
 
+
+## Overview
+
+![Website Colour Palette](assets/images/color-thief-palette-queldx74.github.io.png)
+
+## Fonts
+
 ## Running the project
 Clone the repository:
 git clone https://github.com/queldx74/Elderly-safeguarding.git
