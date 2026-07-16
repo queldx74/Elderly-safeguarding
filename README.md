@@ -76,6 +76,9 @@ Mobile
 Tablet
 Desktop
 
+![Responsive design screenshot](assets/images/Screenshot%202026-07-16%20151043.png)
+
+
 ## Accessibility
 Semantic headings
 Image alt text
